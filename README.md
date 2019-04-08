@@ -10,4 +10,4 @@ git checkout -b dev
 git branch dev
 git checkout dev
 
-分支master的修改
+新建一个分支并对分支master做修改
